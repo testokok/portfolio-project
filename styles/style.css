@@ -71,6 +71,9 @@ font-family: 'Poppins', sans-serif;*/
     line-height: 27px;
     padding: 15px 30px;
   }
+  .btn-branding-outline:hover{
+    border: 1px solid var(--branding-color);
+  }
   
   .project-desciption {
     padding: 120px 60px;
