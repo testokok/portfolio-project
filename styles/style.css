@@ -78,6 +78,17 @@ font-family: 'Poppins', sans-serif;*/
   .project-desciption {
     padding: 120px 60px;
   }
+  .about-section{
+    margin: 30px;
+    text-align: center;
+  }
+  .about-section h1{
+    font-size: 64px;
+    line-height: 80px;
+  }
+  .about-section h2{
+    font-size: 18px;
+  }
 
   @media (max-width: 900px) {
     h1 {
