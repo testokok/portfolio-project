@@ -166,11 +166,14 @@ font-family: 'Poppins', sans-serif;*/
     }
   
     .hero {
-      padding: 80px 20px;
+      padding: 80px 10px;
     }
   
     .project-desciption {
       padding: 0;
       text-align: center;
+    }
+    footer .email{
+      font-size: 18px;
     }
 }
